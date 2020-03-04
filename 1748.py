@@ -1,3 +1,4 @@
+# 연속된 숫자를 이어 적었을 때 자리 수 
 num = int(input())
 num_length = len(str(num))
 res = 0
